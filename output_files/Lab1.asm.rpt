@@ -1,5 +1,5 @@
 Assembler report for Lab1
-Tue Jan 16 20:19:23 2024
+Tue Jan 23 19:03:38 2024
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 
 
@@ -11,7 +11,7 @@ Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
   3. Assembler Settings
   4. Assembler Encrypted IP Cores Summary
   5. Assembler Generated Files
-  6. Assembler Device Options: D:/Cours/ESN/ESN2024/output_files/Lab1.sof
+  6. Assembler Device Options: D:/Cours/ESN_github/Lachenal_Lab1/Lachenal_lab1/LACHENAL_Lab1/output_files/Lab1.sof
   7. Assembler Messages
 
 
@@ -38,7 +38,7 @@ refer to the applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Tue Jan 16 20:19:23 2024 ;
+; Assembler Status      ; Successful - Tue Jan 23 19:03:38 2024 ;
 ; Revision Name         ; Lab1                                  ;
 ; Top-level Entity Name ; lab1                                  ;
 ; Family                ; MAX 10                                ;
@@ -94,23 +94,23 @@ refer to the applicable agreement for further details.
 +--------+------------------------+--------------+
 
 
-+--------------------------------------------+
-; Assembler Generated Files                  ;
-+--------------------------------------------+
-; File Name                                  ;
-+--------------------------------------------+
-; D:/Cours/ESN/ESN2024/output_files/Lab1.sof ;
-+--------------------------------------------+
++-------------------------------------------------------------------------------------+
+; Assembler Generated Files                                                           ;
++-------------------------------------------------------------------------------------+
+; File Name                                                                           ;
++-------------------------------------------------------------------------------------+
+; D:/Cours/ESN_github/Lachenal_Lab1/Lachenal_lab1/LACHENAL_Lab1/output_files/Lab1.sof ;
++-------------------------------------------------------------------------------------+
 
 
-+----------------------------------------------------------------------+
-; Assembler Device Options: D:/Cours/ESN/ESN2024/output_files/Lab1.sof ;
-+----------------+-----------------------------------------------------+
-; Option         ; Setting                                             ;
-+----------------+-----------------------------------------------------+
-; JTAG usercode  ; 0x00596E9B                                          ;
-; Checksum       ; 0x00596E9B                                          ;
-+----------------+-----------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: D:/Cours/ESN_github/Lachenal_Lab1/Lachenal_lab1/LACHENAL_Lab1/output_files/Lab1.sof ;
++----------------+----------------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                                      ;
++----------------+----------------------------------------------------------------------------------------------+
+; JTAG usercode  ; 0x00598CDE                                                                                   ;
+; Checksum       ; 0x00598CDE                                                                                   ;
++----------------+----------------------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -119,15 +119,15 @@ refer to the applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus Prime Assembler
     Info: Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
-    Info: Processing started: Tue Jan 16 20:19:18 2024
+    Info: Processing started: Tue Jan 23 19:03:34 2024
 Info: Command: quartus_asm --read_settings_files=on --write_settings_files=off Lab1 -c Lab1
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus Prime Assembler was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 4692 megabytes
-    Info: Processing ended: Tue Jan 16 20:19:23 2024
-    Info: Elapsed time: 00:00:05
+    Info: Peak virtual memory: 4689 megabytes
+    Info: Processing ended: Tue Jan 23 19:03:38 2024
+    Info: Elapsed time: 00:00:04
     Info: Total CPU time (on all processors): 00:00:05
 
 

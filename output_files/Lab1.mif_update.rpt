@@ -1,5 +1,5 @@
 MIF/HEX Update report for Lab1
-Tue Jan 16 20:18:51 2024
+Tue Jan 23 19:03:23 2024
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 
 
@@ -35,7 +35,7 @@ refer to the applicable agreement for further details.
 +---------------------------------------------------------------+
 ; MIF/HEX Update Summary                                        ;
 +-----------------------+---------------------------------------+
-; MIF/HEX Update Status ; Successful - Tue Jan 16 20:18:51 2024 ;
+; MIF/HEX Update Status ; Successful - Tue Jan 23 19:03:23 2024 ;
 ; Revision Name         ; Lab1                                  ;
 ; Top-level Entity Name ; lab1                                  ;
 ; Family                ; MAX 10                                ;
@@ -58,7 +58,7 @@ refer to the applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus Prime MIF/HEX Update
     Info: Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
-    Info: Processing started: Tue Jan 16 20:18:49 2024
+    Info: Processing started: Tue Jan 23 19:03:22 2024
 Info: Command: quartus_cdb Lab1 -c Lab1 --update_mif
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Warning (113015): Width of data items in "ga_lab1_onchip_memory2_0.hex" is greater than the memory width. Wrapping data items to subsequent addresses. Found 1250 warnings, reporting 10 File: D:/Cours/ESN/ESN2024/software/app/mem_init/ga_lab1_onchip_memory2_0.hex Line: 1
@@ -76,8 +76,8 @@ Info (39024): Processed the following Memory Initialization File(s)
     Info (39025): Processed Memory Initialization File D:/Cours/ESN/ESN2024/software/app/mem_init/ga_lab1_onchip_memory2_0.hex File: D:/Cours/ESN/ESN2024/software/app/mem_init/ga_lab1_onchip_memory2_0.hex Line: 0
 Info: Quartus Prime MIF/HEX Update was successful. 0 errors, 12 warnings
     Info: Peak virtual memory: 4734 megabytes
-    Info: Processing ended: Tue Jan 16 20:18:51 2024
-    Info: Elapsed time: 00:00:02
+    Info: Processing ended: Tue Jan 23 19:03:23 2024
+    Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
 

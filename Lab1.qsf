@@ -64,10 +64,10 @@ set_location_assignment PIN_A10 -to leds[2]
 set_location_assignment PIN_A9 -to leds[1]
 set_location_assignment PIN_A8 -to leds[0]
 set_location_assignment PIN_A7 -to reset
-set_location_assignment PIN_C10 -to speed[3]
-set_location_assignment PIN_C11 -to speed[2]
-set_location_assignment PIN_D12 -to speed[1]
-set_location_assignment PIN_C12 -to speed[0]
+set_location_assignment PIN_C12 -to speed[3]
+set_location_assignment PIN_D12 -to speed[2]
+set_location_assignment PIN_C11 -to speed[1]
+set_location_assignment PIN_C10 -to speed[0]
 set_location_assignment PIN_B8 -to trigger
 set_global_assignment -name ENABLE_OCT_DONE OFF
 set_global_assignment -name EXTERNAL_FLASH_FALLBACK_ADDRESS 00000000

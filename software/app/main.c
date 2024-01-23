@@ -29,18 +29,20 @@ static void handle_interrupts(void* context, alt_u32 id)
 	char speed = IORD_ALTERA_AVALON_PIO_DATA(PIO_2_BASE);
 	
 	switch (speed) {
-		case 0x00 :
+		case 0x01 :
 			speed_leds = 1000000;
 			break;
-		case 0x01 :
+		case 0x02 :
 			speed_leds = 800000;
 			break;
-		case 0x02 :
+		case 0x04 :
 			speed_leds = 400000;
 			break;
-		case 0x03 :
+		case 0x08 :
 			speed_leds = 200000;
 			break;
+		default:
+			speed_leds = 2000000;
 	}
 	
 }

@@ -1,5 +1,5 @@
 Flow report for Lab1
-Tue Jan 16 20:19:23 2024
+Tue Jan 23 19:03:38 2024
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 
 
@@ -40,14 +40,14 @@ refer to the applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Tue Jan 16 20:19:23 2024       ;
+; Flow Status                        ; Successful - Tue Jan 23 19:03:38 2024       ;
 ; Quartus Prime Version              ; 18.1.0 Build 625 09/12/2018 SJ Lite Edition ;
 ; Revision Name                      ; Lab1                                        ;
 ; Top-level Entity Name              ; lab1                                        ;
 ; Family                             ; MAX 10                                      ;
 ; Device                             ; 10M50DAF484C7G                              ;
 ; Timing Models                      ; Final                                       ;
-; Total logic elements               ; 1,715 / 49,760 ( 3 % )                      ;
+; Total logic elements               ; 1,718 / 49,760 ( 3 % )                      ;
 ;     Total combinational functions  ; 1,593 / 49,760 ( 3 % )                      ;
 ;     Dedicated logic registers      ; 920 / 49,760 ( 2 % )                        ;
 ; Total registers                    ; 920                                         ;
@@ -66,7 +66,7 @@ refer to the applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 01/16/2024 20:07:30 ;
+; Start date & time ; 01/23/2024 18:59:28 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; Lab1                ;
 +-------------------+---------------------+
@@ -77,7 +77,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
-; COMPILER_SIGNATURE_ID               ; 190090209006770.170543205001424        ; --            ; --          ; --         ;
+; COMPILER_SIGNATURE_ID               ; 190090209006770.170603276703576        ; --            ; --          ; --         ;
 ; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --          ; --         ;
 ; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --          ; --         ;
 ; OUTPUT_IO_TIMING_FAR_END_VMEAS      ; Half Signal Swing                      ; --            ; --          ; --         ;
@@ -98,13 +98,13 @@ refer to the applicable agreement for further details.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:01:43     ; 1.0                     ; 4882 MB             ; 00:02:28                           ;
-; Fitter               ; 00:00:32     ; 1.1                     ; 5398 MB             ; 00:00:27                           ;
-; Assembler            ; 00:00:06     ; 1.0                     ; 4689 MB             ; 00:00:05                           ;
-; Timing Analyzer      ; 00:00:08     ; 1.3                     ; 4827 MB             ; 00:00:09                           ;
-; MIF/HEX Update       ; 00:00:02     ; 1.0                     ; 4734 MB             ; 00:00:01                           ;
-; Assembler            ; 00:00:05     ; 1.0                     ; 4692 MB             ; 00:00:05                           ;
-; Total                ; 00:02:36     ; --                      ; --                  ; 00:03:15                           ;
+; Analysis & Synthesis ; 00:01:27     ; 1.0                     ; 4892 MB             ; 00:02:31                           ;
+; Fitter               ; 00:00:19     ; 1.2                     ; 5409 MB             ; 00:00:25                           ;
+; Assembler            ; 00:00:04     ; 1.0                     ; 4691 MB             ; 00:00:04                           ;
+; Timing Analyzer      ; 00:00:06     ; 1.4                     ; 4818 MB             ; 00:00:07                           ;
+; MIF/HEX Update       ; 00:00:01     ; 1.0                     ; 4734 MB             ; 00:00:01                           ;
+; Assembler            ; 00:00:04     ; 1.0                     ; 4689 MB             ; 00:00:04                           ;
+; Total                ; 00:02:01     ; --                      ; --                  ; 00:03:12                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
